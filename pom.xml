@@ -50,6 +50,7 @@
 				<version>3.8.1</version>
 				<configuration>
 					<compilerArgs>--enable-preview</compilerArgs>
+			        <release>15</release>
 				</configuration>			
 				</plugin>
 
